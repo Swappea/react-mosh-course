@@ -9,3 +9,6 @@
 
 * npx create-react-app [appname]
 * Use JSX - javascript XMl
+
+
+https://codewithmosh.com/courses/357787/lectures/5706771
